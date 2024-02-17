@@ -13,7 +13,7 @@ six==1.15.0
 # -f https://download.pytorch.org/whl/torch_stable.html
 torch
 # -f https://download.pytorch.org/whl/torch_stable.html
-torchvision==0.9.1+cpu
+torchvision==0.9.1
 typing-extensions==3.7.4.3
 Werkzeug==1.0.1
 flask
